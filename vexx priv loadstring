@@ -1,1 +1,1 @@
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/vexxpriv/vexx-priv/refs/heads/main/vexx%20priv%20loadstring'),true))()
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/vexxpriv/vexx-priv/refs/heads/main/vexx%20priv%20VF'),true))()
